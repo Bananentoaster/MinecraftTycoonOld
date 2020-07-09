@@ -56,7 +56,7 @@ public class MinecraftTycoon extends JavaPlugin {
 
         liteStorage.update("insert into Skins (`SkinId`, `Value`, `Signature`) values ('" + 1 + "', ' Value123 ', ' Signature123243 ')");
 
-        liteStorage.disconnect();b
+        liteStorage.disconnect();
 
          */
 
