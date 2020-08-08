@@ -1,0 +1,8 @@
+name: MinecraftTycoon
+version: 0.2
+main: me.bananentoast.minecrafttycoon.MinecraftTycoon
+
+commands:
+  npc:
+  packet:
+  player:
